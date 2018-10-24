@@ -1,4 +1,4 @@
-**For presentation, find file**
+**For presentation, find file** `accelstm_qrg_presF18.ipynb` **in this folder**
 
 This directory contains the presentation slides and associated documents for CLM's Fall 2018 presentation Quinn Research Group. 
 
